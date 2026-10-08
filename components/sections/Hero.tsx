@@ -90,7 +90,7 @@ export const Hero = () => {
                 variant="secondary"
                 size="lg"
                 as="a"
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1vY3XGaLmMNKbEhx-6fsH6SSxsYR1KGKf/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="gap-2 w-full sm:w-auto"

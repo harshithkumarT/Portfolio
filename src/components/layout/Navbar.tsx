@@ -87,7 +87,7 @@ export const Navbar = () => {
 
         {/* Right: Action Buttons */}
         <div className="hidden md:flex items-center gap-4">
-          <Button variant="outline" size="sm" as="a" href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="gap-2">
+          <Button variant="outline" size="sm" as="a" href="https://drive.google.com/file/d/1vY3XGaLmMNKbEhx-6fsH6SSxsYR1KGKf/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="gap-2">
             <FileText size={16} />
             Resume
           </Button>
@@ -141,7 +141,7 @@ export const Navbar = () => {
                     <Linkedin size={24} />
                   </a>
                 </div>
-                <Button variant="primary" size="sm" as="a" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+                <Button variant="primary" size="sm" as="a" href="https://drive.google.com/file/d/1vY3XGaLmMNKbEhx-6fsH6SSxsYR1KGKf/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   Resume
                 </Button>
               </div>
